@@ -166,7 +166,7 @@ $current_user_location = $districts[$current_user['district']];
         }
     </style>
     <!-- Google Maps APIのスクリプトを追加 -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCq5CKYLvJy2QIESv4nUGFXAP7TM02FvDg&libraries=places" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=places" async defer></script>
 </head>
 
 <body onload="initMap()">

@@ -353,7 +353,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             animation: slideIn 0.5s ease;
         }
     </style>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCq5CKYLvJy2QIESv4nUGFXAP7TM02FvDg&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
 </head>
 
 <body>
